@@ -1,5 +1,18 @@
-### Hi there 👋
+## Heyo 👋
+I'm Kevin, a 21 years old computer science expert from Germany. Currently undergoing further training myself in web developement.
 
+## Skills 👨‍💻
+### Languages
+- HTML
+- CSS
+- PHP
+- Python
+- SQL
+### Frameworks
+- Bootstrap
+- Laravel
+## Projects
+Coming soon 💭
 <!--
 **GuNShOtzZ/GuNShOtzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
