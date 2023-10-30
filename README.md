@@ -1,5 +1,5 @@
 ## Heyo 👋
-I'm Kevin, a 21 years old computer science expert from Germany. Currently undergoing further training myself in web developement.
+I'm Kevin, a 21 years old computer science expert from Germany. Currently undergoing further training in web developement.
 
 ## Skills 👨‍💻
 ### Languages
