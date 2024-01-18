@@ -8,7 +8,7 @@ I'm Kevin, a 21 years old computer science expert from Germany. Currently underg
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ## Skills 👨‍💻
 ### Languages
@@ -43,7 +43,6 @@ I'm Kevin, a 21 years old computer science expert from Germany. Currently underg
 
 ### Design
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 ### Planning / Project Management
@@ -53,14 +52,17 @@ I'm Kevin, a 21 years old computer science expert from Germany. Currently underg
 
 ## Other Stuff
 
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-
 
 ## Projects
-Coming soon 💭
+### GTA V Vehicle Database
+
+- Website: https://gtav-vehicle-database.vercel.app
+- Repository: https://github.com/kevinldg/gtav-vehicle-database
+
 <!--
 **GuNShOtzZ/GuNShOtzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
