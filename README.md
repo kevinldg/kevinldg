@@ -60,8 +60,8 @@ I'm Kevin, a 21 years old computer science expert from Germany. Currently underg
 ## Projects
 ### GTA V Vehicle Database
 
-- Website: https://gtav-vehicle-database.vercel.app
-- Repository: https://github.com/kevinldg/gtav-vehicle-database
+Website: https://gtav-vehicle-database.vercel.app <br>
+Repository: https://github.com/kevinldg/gtav-vehicle-database
 
 <!--
 **GuNShOtzZ/GuNShOtzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
