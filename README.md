@@ -1,5 +1,5 @@
 ## Heyo 👋
-I'm Kevin, a 21 years old computer science expert from Germany. Currently undergoing further training in web developement.
+I'm Kevin, a 21 years old computer science expert and junior web developer from Germany. Passion for React and Next.js ❤️
 
 ## Currently learning 🔭
 
