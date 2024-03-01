@@ -4,6 +4,7 @@ I'm Kevin, a 21 years old computer science expert and junior web developer from 
 ## Currently learning 🔭
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Skills 👨‍💻
 ### Languages
